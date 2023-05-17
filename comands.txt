@@ -10,7 +10,7 @@ cd Scripts
 
 cd activate
 
-cd ..
+cd..
 cd..
 
 
